@@ -11,6 +11,8 @@ with customers as (
 
 ),
 
+--helloworld
+
 orders as (
 
     select
